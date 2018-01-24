@@ -94,7 +94,7 @@ void inOrder(node *tree)
 			cout << ")";
 	}
 }
-
+ 
 void postOrder(node *tree)
 {
 	if (tree != NULL)
